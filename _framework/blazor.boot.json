@@ -23,7 +23,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-Kk9trPYi6xuop+bJh7AertZVcNJkEyzyxW3andlyf5U=",
       "Microsoft.JSInterop.dll": "sha256-ZKXOjSTlNsZV9ie1JpiWDc8rZLIo2e3UYsEqrV8wbBE=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-ZvHWrxEeEN5h9m1gPb4wOyKkjA8F4fUhyUaYoFYr7IU=",
-      "OptionsCalculatorLib.dll": "sha256-2KZsL0\/PxdnySHU9lFv4x3xKQqOc3SN3luVLWNA3UK4=",
+      "OptionsCalculatorLib.dll": "sha256-H\/T8UUN\/vZotftLpOC2X4YfXw++cnfGmCbn6lAWaA2w=",
       "OptionsCalcWasm.dll": "sha256-YxJKHVQGgCtRlEOXsvkhFeYDgu\/x+ofHcYtL053ebB8=",
       "Plotly.Blazor.dll": "sha256-6kKIeGnwETG+47BcyXnj5\/P4kQOiJ9v9sXryp97nBXI=",
       "System.Collections.Concurrent.dll": "sha256-GGXqpEczZj6C3C28QCYgGL4NODZK8MG6wcixjn1l1Jk=",
@@ -61,14 +61,14 @@
     "libraryInitializers": null,
     "pdb": null,
     "runtime": {
-      "dotnet.6.0.15.cz6bqdkh91.js": "sha256-fb2wBZaRp096nChMG9nDNEcW0kW1whA\/kfQNyH+5QpQ=",
+      "dotnet.6.0.15.9nx6nw3nry.js": "sha256-rqfdJA2Ns8jD5eZAWPdITluwi4RLogiqEtcbpoZ124w=",
       "dotnet.timezones.blat": "sha256-Kk7cP\/f+hcBvv5Gh+QJctH\/6vm3yehrEjWqys4FAads=",
-      "dotnet.wasm": "sha256-6isEmuzb9IPVhpu8FVGE1zbisPkRp59lzqd1BD8nANI="
+      "dotnet.wasm": "sha256-OAkq7L+e2EHFt9mFZ0govEasqpy6CxRO7Oj\/tBo\/Cik="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
         "behavior": "dotnetwasm",
-        "hash": "sha256-6isEmuzb9IPVhpu8FVGE1zbisPkRp59lzqd1BD8nANI="
+        "hash": "sha256-OAkq7L+e2EHFt9mFZ0govEasqpy6CxRO7Oj\/tBo\/Cik="
       }
     },
     "satelliteResources": null
